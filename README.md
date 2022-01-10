@@ -9,7 +9,7 @@ There are two in-depth documents available to support the Data Portal:
 
 2: Data Portal Developer Guide (30 Dec 2021): technical documentation to work with the data portal code and datasets
 
-Additional Appendices Included in the documentation:
+Additional pdfs included in the documentation:
 
 -Metadata Catalogue
 
