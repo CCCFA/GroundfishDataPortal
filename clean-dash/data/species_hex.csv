@@ -1,0 +1,90 @@
+species.id,species,hex
+,Albacore,#CCE1DF
+ALWF,Alewife,#CCE1DF
+LOB,American Lobster,#E44D30
+SROB,American Lobster,#E44D30
+FLDAB,American Plaice,#7F6E05
+SHAD,American Shad,#CCE1DF
+DGCH,Anchovies,#CCE1DF
+NC,Anchovies,#10157D
+COD,Atlantic Cod,#DA5AE6
+HAL,Atlantic Halibut,#F27C3A
+HERR,Atlantic Herring,#CCE1DF
+MACK,Atlantic Mackerel,#4D96E4
+STUR,Atlantic Sturgeon,#C3C6C6
+CAT,Atlantic Wolffish,#8BABB3
+OFF,Atlantic Wolffish,#8BABB3
+SKBARN,Barndoor Skate,#984CEB
+SKBARNW,Barndoor Skate,#984CEB
+SHBA,Basking Shark,#C3C6C6
+SHTB,Bigeye Thresher Shark,#C3C6C6
+STB,Bigeye Thresher Shark,#C3C6C6
+BSB,Black Sea Bass,#379B90
+HRBB,Blueback Herring,#CCE1DF
+BFT,Bluefin Tuna,#4DE5D4
+BLU,Bluefish,#105BEB
+BON,Bonito,#CCE1DF
+BUT,Butterfish,#EFD4DD
+,Cetacean,#CCE1DF
+SKCL,Clearnose Skate,#CCE1DF
+CRNS,Cunner,#EFD4DD
+CUN,Cunner,#EFD4DD
+CUSK,Cusk,#EFD4DD
+FLFSP,Fourspot Flounder,#7F6E05
+TILEG,Golden Tilefish,#EFD4DD
+MONK,Goosefish,#10157D
+MONKH,Goosefish,#10157D
+MONKL,Goosefish,#10157D
+MONKT,Goosefish,#10157D
+HADD,Haddock,#71BACC
+JDO,John Dory,#CCE1DF
+CRHS,Jonah Crab,#D40421
+CRJ,Jonah Crab,#D40421
+LOL,Longfin Squid,#2A6514
+MEN,Menhaden,#CCE1DF
+,No Groundfish Discards,#CCE1DF
+,Non-Fish,#CCE1DF
+POUT,Ocean Pout,#8BABB3
+,Pinniped,#CCE1DF
+POLL,Pollock,#506291
+SHPB,Porbeagle,#C3C6C6
+RAY,Red Hake,#6B1748
+RHAK,Red Hake,#6B1748
+RED,Redfish,#822004
+CRRK,Rock Crab,#CCE1DF
+SHST,Sand Tiger Shark,#C3C6C6
+SCUL,Sculpin,#4D8F34
+DCP,Scup,#B7C5D5
+SCUP,Scup,#B7C5D5
+SRAV,Sea Raven,#CCE1DF
+SCALS,Sea Scallop,#4DE5D4
+SCAL,Sea Scallop,#4DE5D4
+ILX,Shortfin Squid,#2A6514
+SHAK,Silver Hake,#A76690
+DGSM,Smooth Dogfish,#5F5F67
+CRSP,Spider Crab,#CCE1DF
+DGSP,Spiny Dogfish,#5F5F67
+FLUKE,Summer Flounder,#F6EBCB
+TAU,Tautog,#75DC4E
+SKTHOR,Thorny Skate,#B2AADE
+SHTH,Thresher Shark,#C3C6C6
+SHTI,Tiger Shark,#C3C6C6
+,Unknown Bird,#CCE1DF
+,Unknown Fish,#CCE1DF
+,Unknown Flounder,#CCE1DF
+,Unknown Hake,#CCE1DF
+,Unknown Ray,#6355B8
+,Unknown Roundfish,#CCE1DF
+,Unknown Shark,#C3C6C6
+SKATE,Unknown Skate,#6355B8
+WKSQ,Weakfish,#75DC4E
+WHAK,White Hake,#95AAE0
+WHK,Whiting,#4D96E4
+FLSD,Windowpane,#EBD48F
+FLBB,Winter Flounder,#000000
+SKLWIN,Winter Skate,#6355B8
+SKLWINW,Winter Skate,#6355B8
+SKWIN,Winter Skate,#6355B8
+SKWINW,Winter Skate,#6355B8
+FLGS,Witch Flounder,#F2BF3A
+FLYT,Yellowtail Flounder,#F2DC54

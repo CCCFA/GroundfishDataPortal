@@ -1,0 +1,5 @@
+station,lon,lat,source,name,link
+A01,-70.56,42.18,source_a01,Massachusettes Bay,https://mariners.neracoos.org/platform/A01%20-%2044029
+B01,-70.42,43.19,source_b01,Western Maine Shelf,https://mariners.neracoos.org/platform/B01%20-%2044030
+44020,-70.18,41.45,source_44020,Nantucket Sound,https://mariners.neracoos.org/platform/44020
+44008,-69.24,40.5,source_44008,Nantucket 54NM SE of Nantucket,https://mariners.neracoos.org/platform/44008
