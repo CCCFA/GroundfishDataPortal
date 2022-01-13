@@ -9,7 +9,9 @@ There are two in-depth documents available to support the Data Portal:
 
  2: Data Portal Developer Guide (30 Dec 2021): technical documentation to work with the data portal code and datasets
 
+
 All of the code and example data are located in the "clean-dash" folder.
+
 
 Additional pdfs included in the documentation:
 
