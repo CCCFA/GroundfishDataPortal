@@ -16,3 +16,5 @@ Additional pdfs included in the documentation:
  -Metadata Catalogue
 
  -Digital Public Report (2019): Building a fishermen-first data ecosystem
+ 
+ There is a functional prototype of the data portal available at: https://daniellequinn.shinyapps.io/clean-dash/
